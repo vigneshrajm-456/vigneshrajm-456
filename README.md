@@ -38,6 +38,7 @@ My interests include:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,supabase,threejs,git,github,appsscript,vscode" />
+  <img src="https://www.gstatic.com/images/branding/product/2x/script_48dp.png" width="48" />
 </p>
 
 ## Connect
