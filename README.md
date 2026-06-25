@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="./ascii.png" width="700">
+  <img src="./ascii.png" width="500">
 
 </div>
 
