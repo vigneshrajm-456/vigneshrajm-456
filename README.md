@@ -201,15 +201,7 @@ Scalable NGO management and CMS-based website system.
 
 ---
 
-# 💡 Developer Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🌍 Connect With Me
 
@@ -219,9 +211,6 @@ Scalable NGO management and CMS-based website system.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/vigneshrajm/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
 <a href="mailto:vigneshrajm456@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -233,10 +222,4 @@ Scalable NGO management and CMS-based website system.
 
 <div align="center">
 
-### 🚀 Building the Future with AI + Engineering
 
-⭐ If you like my projects, consider starring them!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00D4FF,100:00FFB3"/>
