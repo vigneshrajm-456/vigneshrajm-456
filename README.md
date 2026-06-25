@@ -1,6 +1,6 @@
 # Hi, I'm Vignesh 👋
 
-### Software Developer | Builder | Problem Solver
+### Software Developer |  Problem Solver
 
 <div align="center">
 
@@ -37,7 +37,7 @@ My interests include:
 
 ### Languages
 
-Java • JavaScript
+Python
 
 ### Frontend
 
@@ -54,14 +54,6 @@ Three.js • React Three Fiber
 ### AI & Automation
 
 OpenAI • n8n • Google AI Studio
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshrajm-456\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrajm-456\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
