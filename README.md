@@ -35,28 +35,21 @@ My interests include:
 
 ## Tools & Technologies
 
-## Languages
+## 🛠 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+<div align="center">
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,git,github,vscode&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+<br><br>
 
-## Backend & Database
+<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,threejs,openai" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+<br><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
-## 3D & Interactive
-
-<img src="https://skillicons.dev/icons?i=threejs" />
-
-## Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
----
+</div>
 
 ## Connect
 
