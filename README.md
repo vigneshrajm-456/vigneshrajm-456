@@ -35,26 +35,27 @@ My interests include:
 
 ## Tools & Technologies
 
-### Languages
+## Languages
 
-Python
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
-### Frontend
+## Frontend
 
-React • Vite • HTML • CSS
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 
-### Backend & Database
+## Backend & Database
 
-Node.js • Supabase • Firebase
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
 
-### 3D & Interactive
+<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
 
-Three.js • React Three Fiber
+## 3D & Interactive
 
-### AI & Automation
+<img src="https://skillicons.dev/icons?i=threejs" />
 
-OpenAI • n8n • Google AI Studio
+## Development Tools
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 ---
 
 ## Connect
