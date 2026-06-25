@@ -33,33 +33,17 @@ Name: Vignesh Raj M
 
 Role:
   - AI Agent Developer
-  - IoT & Embedded Systems Enthusiast
   - Full Stack Developer
 
-Education:
-  - B.Tech Electronics & Communication Engineering
 
 Interests:
   - Artificial Intelligence
   - AI Agents
   - Embedded Systems
-  - IoT Solutions
   - Full Stack Development
-  - Data Analytics
 
-Currently Building:
-  - AI Automation Systems
-  - Drone Rover Platform
-  - Engineering Knowledge Hub
-  - Smart Monitoring Systems
-
-Goal:
-  - Build impactful products using AI + Engineering
-```
 
 ---
-
-# 🔥 Current Focus
 
 <table>
 <tr>
@@ -74,37 +58,6 @@ Goal:
 * RAG Systems
 * Workflow Automation
 
-</td>
-
-<td width="50%">
-
-### ⚡ IoT & Embedded
-
-* ESP32 Projects
-* Sensor Integration
-* Drone Systems
-* Telemetry Dashboards
-* Smart Monitoring
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Full Stack
-
-* React
-* Next.js
-* Node.js
-* Supabase
-* Sanity CMS
-
-</td>
-
-<td width="50%">
 
 ### 📊 Analytics
 
@@ -123,11 +76,7 @@ Goal:
 
 
 
-# 🚀 Featured Projects
-
-### 🚁 Drone Rover System
-
-Transformable aerial and ground rover with telemetry dashboard, GPS tracking, sensor integration and real-time monitoring.
+# 🚀 Featured ProjectS
 
 ### 🤖 AI Agent Ecosystem
 
@@ -137,10 +86,6 @@ Lead generation, onboarding, RAG and workflow automation agents.
 
 Automatic Accident Detection & Alert System using ESP32, GPS, GSM and Machine Learning.
 
-### 🦷 DentPatch
-
-Post-surgery health monitoring platform with smart sensors and cloud integration.
-
 ### 🌐 Engineering Knowledge Hub
 
 Knowledge-sharing platform built using modern web technologies.
@@ -149,37 +94,6 @@ Knowledge-sharing platform built using modern web technologies.
 
 Scalable NGO management and CMS-based website system.
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshrajm-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrajm-456&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vigneshrajm-456&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshrajm-456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
