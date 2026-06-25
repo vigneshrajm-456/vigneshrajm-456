@@ -35,19 +35,9 @@ My interests include:
 
 ## Tools & Technologies
 
-## 🛠 Tools & Technologies
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,git,github,vscode&perline=7" />
-
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,threejs,openai" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,supabase,threejs,git,github,vscode&perline=5" />
 
 </div>
 
