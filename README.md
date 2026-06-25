@@ -121,29 +121,7 @@ Goal:
 
 ---
 
-# 🛠 Tech Stack
 
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,mysql"/>
-
-<br><br>
-
-## Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,git,github,vscode"/>
-
-<br><br>
-
-## Embedded & Engineering
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
