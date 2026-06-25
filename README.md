@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshrajm-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshrajm-456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrajm-456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="35%"/>
 
 </div>
