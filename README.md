@@ -10,28 +10,53 @@
 
 ---
 
-## About Me
+<h2>👨‍💻 About Me</h2>
 
-I enjoy building practical software, exploring new technologies, and turning ideas into real-world projects.
+<table>
+<tr>
+<td>
 
-My interests include:
+🌐 Web Development
 
-* Web Development
-* Automation & AI
-* Interactive Experiences
-* Product Building
-* Open Source
+</td>
+<td>
 
----
+🤖 Automation & AI
 
-## What I'm Building
+</td>
+<td>
 
-* Modern web applications
-* AI-powered workflows
-* Interactive user experiences
-* Personal and collaborative projects
+🎮 Interactive Experiences
 
----
+</td>
+<td>
+
+📦 Product Building
+
+</td>
+<td>
+
+🌍 Open Source
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>🔗 What I'm Building</h2>
+
+<table>
+<tr>
+<td>💻 Modern Web Applications</td>
+<td>⚡ AI-Powered Workflows</td>
+</tr>
+
+<tr>
+<td>🎨 Interactive Experiences</td>
+<td>🚀 Side Projects</td>
+</tr>
+</table>
 
 ## Tools & Technologies
 
