@@ -35,11 +35,10 @@ My interests include:
 
 ## Tools & Technologies
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,supabase,threejs,git,github,vscode&perline=5" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,supabase,threejs,git,github,appsscript,vscode" />
+</p>
 
 ## Connect
 
