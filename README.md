@@ -10,11 +10,17 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=vigneshrajm-456&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/github/followers/vigneshrajm-456?style=for-the-badge&color=blue"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Agent+Developer;IoT+%26+Embedded+Systems+Builder;Full+Stack+Developer;Building+Real+World+Engineering+Projects;Always+Learning+%F0%9F%9A%80" />
 
-<img src="https://img.shields.io/github/stars/vigneshrajm-456?style=for-the-badge&color=yellow"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Agents-Builder-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-Developer-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-Engineer-00FF7F?style=for-the-badge" />
+
+</div>
 
 </div>
 
