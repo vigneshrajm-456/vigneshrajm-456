@@ -35,10 +35,12 @@ My interests include:
 
 ## Tools & Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,git,github,vscode&theme=dark" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase,supabase,threejs,git,github,appsscript,vscode" />
-  <img src="https://www.gstatic.com/images/branding/product/2x/script_48dp.png" width="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,threejs,googleappsscript" />
 </p>
 
 ## Connect
